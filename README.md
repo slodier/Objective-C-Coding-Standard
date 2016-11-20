@@ -1,5 +1,4 @@
 # Objective-C Coding Standard
-#留作 Coding 参考用(非原创、个人增删版)
 
 ##概要
 
